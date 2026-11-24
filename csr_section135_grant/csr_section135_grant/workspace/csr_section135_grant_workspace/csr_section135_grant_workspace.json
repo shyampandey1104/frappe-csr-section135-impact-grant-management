@@ -1,0 +1,104 @@
+{
+ "charts": [
+  {
+   "chart_name": "Frappe Csr Section135 Impact Grant Management Volume Trend",
+   "label": "Frappe Csr Section135 Impact Grant Management Volume Trend"
+  }
+ ],
+ "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Frappe Csr Section135 Impact Grant Management Workspace\", \"level\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Frappe Csr Section135 Impact Grant Management Operations\"}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Audit & Compliance\"}}]",
+ "creation": "2026-04-01 10:00:00.000000",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "octicon octicon-package",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Frappe Csr Section135 Impact Grant Management",
+ "links": [
+  {
+   "label": "Operational Documents",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Frappe Csr Section135 Impact Grant Management Entry",
+   "label": "Frappe Csr Section135 Impact Grant Management Entry",
+   "link_to": "Frappe Csr Section135 Impact Grant Management Entry",
+   "link_type": "DocType",
+   "type": "Link"
+  },
+  {
+   "label": "Audit & Reports",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Frappe Csr Section135 Impact Grant Management Audit Log",
+   "label": "Frappe Csr Section135 Impact Grant Management Audit Log",
+   "link_to": "Frappe Csr Section135 Impact Grant Management Audit Log",
+   "link_type": "DocType",
+   "type": "Link"
+  },
+  {
+   "is_query_report": 1,
+   "label": "Frappe Csr Section135 Impact Grant Management Summary",
+   "link_to": "Frappe Csr Section135 Impact Grant Management Summary",
+   "link_type": "Report",
+   "type": "Link"
+  },
+  {
+   "label": "Configuration",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Frappe Csr Section135 Impact Grant Management Settings",
+   "label": "Frappe Csr Section135 Impact Grant Management Settings",
+   "link_to": "Frappe Csr Section135 Impact Grant Management Settings",
+   "link_type": "DocType",
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-04-01 10:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Csr_Section135_Grant",
+ "name": "Frappe Csr Section135 Impact Grant Management",
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "Frappe Csr Section135 Impact Grant Management Entry",
+   "label": "Recent Frappe Csr Section135 Impact Grant Management Entries"
+  }
+ ],
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ],
+ "sequence_id": 1,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "All Frappe Csr Section135 Impact Grant Management Entrys",
+   "link_to": "Frappe Csr Section135 Impact Grant Management Entry",
+   "type": "DocType"
+  },
+  {
+   "color": "Green",
+   "label": "System Settings",
+   "link_to": "Frappe Csr Section135 Impact Grant Management Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Blue",
+   "label": "Compliance Digest",
+   "link_to": "Frappe Csr Section135 Impact Grant Management Summary",
+   "type": "Report"
+  }
+ ],
+ "title": "Frappe Csr Section135 Impact Grant Management"
+}
