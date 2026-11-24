@@ -1,0 +1,9 @@
+[
+ {
+  "dt": "Frappe Csr Section135 Impact Grant Management Entry",
+  "fieldname": "custom_audit_verified",
+  "fieldtype": "Check",
+  "insert_after": "status",
+  "label": "Audit Verified"
+ }
+]

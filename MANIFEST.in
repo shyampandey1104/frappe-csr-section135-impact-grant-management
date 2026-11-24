@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include csr_section135_grant *.css
+recursive-include csr_section135_grant *.csv
+recursive-include csr_section135_grant *.html
+recursive-include csr_section135_grant *.ico
+recursive-include csr_section135_grant *.js
+recursive-include csr_section135_grant *.json
+recursive-include csr_section135_grant *.md
+recursive-include csr_section135_grant *.png
+recursive-include csr_section135_grant *.py
+recursive-include csr_section135_grant *.svg
+recursive-include csr_section135_grant *.txt
+recursive-exclude csr_section135_grant *.pyc
